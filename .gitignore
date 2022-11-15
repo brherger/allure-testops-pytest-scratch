@@ -1,0 +1,6 @@
+venv*/
+build/
+.pytest_cache/
+.idea/
+.allure-ee/
+allurectl
